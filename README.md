@@ -2,7 +2,7 @@
 # SOC Incident Investigation — Malicious RDP Access & Privilege Escalation
 
 <p align="center">
-  <img src="INSERT_OVERVIEW_GRAPHIC_URL_HERE" width="850" alt="LetsDefend SOC335 Incident Investigation Overview">
+  <img src="https://i.imgur.com/pjkg81J.png" width="850" alt="LetsDefend SOC335 Incident Investigation Overview">
 </p>
 
 <p align="center">
